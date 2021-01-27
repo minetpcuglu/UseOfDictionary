@@ -1,0 +1,12 @@
+C:\Users\Hp\Desktop\C# E.D\HAFTA 2 REFERANS TİPLER\Dictionary Kullanımı\bin\Debug\netcoreapp3.1\Dictionary Kullanımı.exe
+C:\Users\Hp\Desktop\C# E.D\HAFTA 2 REFERANS TİPLER\Dictionary Kullanımı\bin\Debug\netcoreapp3.1\Dictionary Kullanımı.deps.json
+C:\Users\Hp\Desktop\C# E.D\HAFTA 2 REFERANS TİPLER\Dictionary Kullanımı\bin\Debug\netcoreapp3.1\Dictionary Kullanımı.runtimeconfig.json
+C:\Users\Hp\Desktop\C# E.D\HAFTA 2 REFERANS TİPLER\Dictionary Kullanımı\bin\Debug\netcoreapp3.1\Dictionary Kullanımı.runtimeconfig.dev.json
+C:\Users\Hp\Desktop\C# E.D\HAFTA 2 REFERANS TİPLER\Dictionary Kullanımı\bin\Debug\netcoreapp3.1\Dictionary Kullanımı.dll
+C:\Users\Hp\Desktop\C# E.D\HAFTA 2 REFERANS TİPLER\Dictionary Kullanımı\bin\Debug\netcoreapp3.1\Dictionary Kullanımı.pdb
+C:\Users\Hp\Desktop\C# E.D\HAFTA 2 REFERANS TİPLER\Dictionary Kullanımı\obj\Debug\netcoreapp3.1\Dictionary Kullanımı.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\C# E.D\HAFTA 2 REFERANS TİPLER\Dictionary Kullanımı\obj\Debug\netcoreapp3.1\Dictionary Kullanımı.AssemblyInfo.cs
+C:\Users\Hp\Desktop\C# E.D\HAFTA 2 REFERANS TİPLER\Dictionary Kullanımı\obj\Debug\netcoreapp3.1\Dictionary Kullanımı.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\C# E.D\HAFTA 2 REFERANS TİPLER\Dictionary Kullanımı\obj\Debug\netcoreapp3.1\Dictionary Kullanımı.dll
+C:\Users\Hp\Desktop\C# E.D\HAFTA 2 REFERANS TİPLER\Dictionary Kullanımı\obj\Debug\netcoreapp3.1\Dictionary Kullanımı.pdb
+C:\Users\Hp\Desktop\C# E.D\HAFTA 2 REFERANS TİPLER\Dictionary Kullanımı\obj\Debug\netcoreapp3.1\Dictionary Kullanımı.genruntimeconfig.cache
